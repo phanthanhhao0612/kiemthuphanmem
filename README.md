@@ -1,4 +1,4 @@
-<img width="1036" height="332" alt="{278FA759-A9BE-45E1-9A1A-749B2C9D349D}" src="https://github.com/user-attachments/assets/52503ce6-6f33-4535-a963-83e3a017afab" /># kiemthuphanmem
+# kiemthuphanmem
 kiểm thử
 File báo cáo 
 Tuần 1: Báo cáo thực hành – Thông tin sinh viên
